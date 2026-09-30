@@ -31,7 +31,7 @@ jobs:
       - name: Instalar Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
           cache: npm
 
       - name: Instalar dependencias
@@ -46,7 +46,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        node: [20, 22]         # se ejecuta una vez por cada versión
+        node:  [22]        # se ejecuta una vez por cada versión
     steps:
       - name: Descargar código
         uses: actions/checkout@v4
