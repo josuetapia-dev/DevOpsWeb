@@ -8,6 +8,7 @@ export const equipo = [
   { nombre: "Josue Perez Tapia", rol: "Líder de proyecto", github: "josuetapia-dev" },
 
   // --- Integrante 1 ---
+    { nombre: "Andrey Emilio Cabriales Ramírez", rol: "Desarrollador", github: "AndreyCabriales" },
 
   // --- Integrante 2 ---
 
