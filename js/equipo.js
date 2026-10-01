@@ -11,7 +11,7 @@ export const equipo = [
     { nombre: "Andrey Emilio Cabriales Ramírez", rol: "Desarrollador", github: "AndreyCabriales" },
 
   // --- Integrante 2 ---
-
+    { nombre: "Ángel De Gabriel Aparicio Maldonado", rol: "Desarrollador", github: "AngelDeGabriel" },
   // --- Integrante 3 ---
 
   // --- Integrante 4 ---
