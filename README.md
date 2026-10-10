@@ -1,7 +1,1 @@
-# DevOpsWeb
-1.../
-
-
-* Pipeline verificado
-# pollo pollo pollito
-DEV QA
+Proyecto de práctica DevOps: flujo con issues, PRs y guía de contribución
