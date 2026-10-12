@@ -8,7 +8,7 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --fondo: #0d1117;
+    --fondo: #020a18; /* Nuevo Color */
     --texto: #e6edf3;
     --tarjeta: #161b22;
     --acento: #58a6ff;
