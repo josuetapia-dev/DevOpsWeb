@@ -15,6 +15,6 @@ export const equipo = [
   // --- Integrante 3 ---
 
   // --- Integrante 4 ---
-      { nombre: "Prueba Rota", rol: "TESTER", github: "Angel TOPO DeGabriel" },
+      { nombre: "Prueba Rota", rol: "TESTER", github: "AndreyCabriales" },
 
 ];
