@@ -1,7 +1,7 @@
 # DevOpsWeb
-1.../
 
 
 * Pipeline verificado
-# pollo pollo pollito
 DEV QA
+Flujo de trabajo: rama → PR → revisión → merge → deploy
+Para buenas practicas
